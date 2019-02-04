@@ -28,8 +28,6 @@ module.exports = {
                     return slf.renderToken(tokens, idx, options)
                 }
             });
-
-            md.use(require('markdown-it-highlightjs'), {})
         }
     },
     ...
