@@ -119,7 +119,7 @@ pre {
 }
 
 .hljs {
-    @apply p-8;
+    @apply p-8 !important;
 }
 
 </style>
