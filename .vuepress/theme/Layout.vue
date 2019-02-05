@@ -6,11 +6,13 @@
         <SocialLinks class="relative z-50" />
         <p class="text-orange-lighter text-xl font-serif font-thin">Copyright 2019 Marco Mark</p>
         <NavBar class="relative z-50" />
-        <Woman :scroll="scrollPosition" :x="0.95" :y="0.1" :speed="0.45" :scale="0.1" v-show="fullyRendered" :min-height="1000" />
-        <Bird :scroll="scrollPosition" :x="0.10" :y="0.2" :speed="0.4" :scale="0.6" v-show="fullyRendered" :min-height="1500" />
-        <Bull :scroll="scrollPosition" :x="0.5" :y="0.4" :speed="0.35" :scale="0.5" v-show="fullyRendered" :min-height="1800" />
-        <Woman :scroll="scrollPosition" :x="0.90" :y="0.5" :speed="0.25" :scale="0.2" v-show="fullyRendered" :min-height="2500" />
-        <Bird :scroll="scrollPosition" :x="0.2" :y="0.6" :speed="0.3" :scale="0.3" v-show="fullyRendered" :min-height="2700" />
+        <ClientOnly>
+            <Woman :scroll="scrollPosition" :x="0.95" :y="0.1" :speed="0.45" :scale="0.1" v-show="fullyRendered" :min-height="1000" />
+            <Bird :scroll="scrollPosition" :x="0.10" :y="0.2" :speed="0.4" :scale="0.6" v-show="fullyRendered" :min-height="1500" />
+            <Bull :scroll="scrollPosition" :x="0.5" :y="0.4" :speed="0.35" :scale="0.5" v-show="fullyRendered" :min-height="1800" />
+            <Woman :scroll="scrollPosition" :x="0.90" :y="0.5" :speed="0.25" :scale="0.2" v-show="fullyRendered" :min-height="2500" />
+            <Bird :scroll="scrollPosition" :x="0.2" :y="0.6" :speed="0.3" :scale="0.3" v-show="fullyRendered" :min-height="2700" />
+        </ClientOnly>
     </div>
 </template>
 
