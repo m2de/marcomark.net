@@ -8,6 +8,7 @@ module.exports = {
             { text: 'Home', link: '/' },
             { text: 'Work', link: '/work/' },
             { text: 'Code', link: '/code/' },
+            { text: 'Lead', link: '/lead/' },
         ]
     },
     markdown: {
