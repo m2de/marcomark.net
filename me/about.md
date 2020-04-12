@@ -23,4 +23,4 @@ Having hands-on knowledge of multiple language, platforms and ecommerce gives me
 
 ## Personal Interests
 
-I love living in Cornwall; currently near Falmouth. My personal interests include Volleyball, Instinctive Archery,Motorsports, Gadgets and Technology. Volleyball used to take up a lot of my time, playing for Kernow in the National Volleyball League involves its fair share of weekend traveling to Wales, Bristol and even Essex. To help increase the sports popularity in Cornwall I run and manage both the Cornwall Volleyball Association website and the Truro Volleyball Club.
+I love living in Cornwall; currently near Falmouth. My personal interests include Volleyball, Instinctive Archery, Motorsports, Gadgets and Technology. Volleyball used to take up a lot of my time, playing for Kernow in the National Volleyball League involves its fair share of weekend traveling to Wales, Bristol and even Essex. To help increase the sports popularity in Cornwall I run and manage both the Cornwall Volleyball Association website and the Truro Volleyball Club.
