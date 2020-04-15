@@ -88,7 +88,7 @@ Creating, managing and completing tasks becomes a chore when nobody else pays an
 
 ### Every task must have a single owner with sole responsibility
 
-Not the same as the don't do **Every task must be assigned to someone** we talked about earlier. What we have to avoid is a "Tom and Ben, could someone sort this out". Because chances are neither Tom or Ben are going to sort it out. Ask one person to deal with something and let them delegate if needed.
+Not the same as the don't do, "Every task must be assigned to someone", we talked about earlier. What we have to avoid is a "Tom and Ben, could someone sort this out". Because chances are neither Tom or Ben are going to sort it out. Ask one person to deal with something and let them delegate if needed.
 
 ### Each task should be for a single issue/outcome
 
