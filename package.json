@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@silvanite/vue-instagram": "^1.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "highlight.js": "^10.4.1",
     "markdown-it-highlightjs": "^3.0.0",
     "tailwindcss": "^0.7.4",
